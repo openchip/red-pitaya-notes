@@ -2,6 +2,7 @@
 * Version 1.0 (Rev. 2)
 * added to ip_lib as Catalog IP Core
 * Changed Memory Map range to 4K (from 4G)
+* Added constraints on width of Config vector
 
 
 
